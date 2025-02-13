@@ -54,10 +54,10 @@ Foto © Naturzeitclub
 Florian ist ausbildeteter Wildnispädagoge und Systemischer Coach.
 
 Schon sehr früh hatte Florian ein Faible für Messer, war vom Feuer faziniert 
-und zündelte sehr zum Leidwesen seiner Eltern. 
+und zündelte für sein Leben gern (sehr zum Leidwesen seiner Eltern). 
 Etwas später konnte es das als Pfadfinder, mit denen er mit der Kothe (Feuerzelt) unterwegs war, ausleben.
 
-Heute gibt Florian Bushcraft und Survivalkurse, unter anderem für den [Naturzeitclub](
+Heute gibt Florian Bushcraft und Survivalkurse. Unter anderem für den [Naturzeitclub](
 https://naturzeit.club/) wo er auch die Trainings für die Naturzeitclub Coach gegeben hat.
 
  
