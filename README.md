@@ -1,6 +1,6 @@
 # Feuermachen mit dem Bowdrill (Feuerbohrer)
 
-![Justin bort feuer mit dem Drillbogen"](/images/justin-bowdrill-action.jpg))
+![Justin bort feuer mit dem Drillbogen"](/images/justin-bowdrill-action.jpg)
 Foto © Naturzeitclub
 
 In diesem Seminar lernst du in Theorie und Praxis, 
@@ -16,7 +16,8 @@ und versuchen damit feuer zu machen.
 - Bau eines Bowdrill-Sets
 - Exkurs: Handdrill
 
-![Übertragung der erzeugten Glut in das Glutnest](/images/bowdrill-glut-uebertragung-glutnest.png)
+![Übertragung der erzeugten Glut in das Glutnest](
+/images/bowdrill-glut-uebertragung-glutnest.png "Übertragung der erzeugten Glut in das Glutnest")
 Foto © Florian Latzel
 
 **Muss du mitbringen musst**
