@@ -1,6 +1,6 @@
 # Feuermachen mit dem Bowdrill (Feuerbohrer)
 
-![Justin bort feuer mit dem Drillbogen"]()
+![Justin bort feuer mit dem Drillbogen"](/images/justin-bowdrill-action.jpg))
 Foto © Naturzeitclub
 
 In diesem Seminar lernst du in Theorie und Praxis, 
@@ -16,6 +16,8 @@ https://github.com/fl3a/bowdrill-seminar/blob/main/README.md
 - Bau eines Bowdrill-Sets
 - Exkurs: Handdrill
 
+![Übertragung der Glut in das Glutnest](/images/bowdrill-glut-uebertragung-glutnest.png)
+
 **Muss du mitbringen musst**
 
 - Ein Messer mit dem du mühelos längere Zeit schnitzen kannst. 
@@ -26,7 +28,7 @@ https://www.globetrotter.de/feststehende-messer/morakniv/).
 - Als Sitzunterlage ein [Sitzkissen](https://www.globetrotter.de/outdoor-ausruestung/isomatten/sitzkissen/)
 oder eine einfache [Isomatte aus Schaumstoff](
 https://www.globetrotter.de/outdoor-ausruestung/isomatten/schaumstoffmatten/).
-- Je nach Witterung: Wetter- und Sonnenschtz (Poncho oder ähnliches)
+- Je nach Witterung: Wetter- (z.B. Poncho) und Sonnenschtz 
 - Verpflegung: Essen und trinken
 - Neugier :D
 
@@ -44,7 +46,7 @@ Wenn du die
 
 ## Über deinen Trainer
 
-![Florian baut das Modell einer Debris Hut]()
+![Florian baut das Modell einer Debris Hut](/images/florian-latzel-modell-debris-hut.jpg)
 Foto © Naturzeitclub
 
 Florian ist ausbildeteter Wildnispädagoge und Systemischer Coach.
