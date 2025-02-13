@@ -71,7 +71,9 @@ https://naturzeit.club/) wo er auch die Trainings für die Naturzeitclub Coach g
 
 **Ggf. in die Terminbuchung**
 
-85 Euro brutto, p.P. zzgl. Rausgegangen
+- 85 Euro brutto, p.P. zzgl. Rausgegangen
+- AGB von Naturzeitclub
+
 
 Termine 
 je 10-14 Uhr
