@@ -3,7 +3,8 @@
 In diesem Seminar lernst du in Theorie und Praxis, 
 wie man auf archaische Arten entfacht. 
 Dazu gehören das Funkenschlagen und das erzeugen von Glut durch Reibung.
-Und du wirst **dein eigenes Bowdrill-Set** bauen und kannst versuchen damit feuer zu machen.
+Und du wirst **dein eigenes Bowdrill-Set** (welches du auch mit Hause nehmen kannst) bauen 
+und versuchen damit feuer zu machen.
 
 Dauer ca. 4 Stunden
 
@@ -11,7 +12,7 @@ Dauer ca. 4 Stunden
 - Material und Werkzeugkunde
 - Zundernest
 - Funkenschlagen mit Feuerstein
-- Bau eines Bowdrill
+- Bau eines Bowdrill-Sets
 - Exkurs: Handdrill
 
 **Muss du mitbringen musst**
