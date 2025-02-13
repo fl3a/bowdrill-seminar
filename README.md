@@ -1,13 +1,14 @@
 # Feuermachen mit dem Bowdrill (Feuerbohrer)
 
+![Justin bort feuer mit dem Drillbogen"]()
+Foto © Naturzeitclub
+
 In diesem Seminar lernst du in Theorie und Praxis, 
 wie man auf archaische Arten entfacht. 
 Dazu gehören das Funkenschlagen und das erzeugen von Glut durch Reibung.
 Und du wirst **dein eigenes Bowdrill-Set** (welches du auch mit Hause nehmen kannst) bauen 
 und versuchen damit feuer zu machen.
-
-Dauer ca. 4 Stunden
-
+https://github.com/fl3a/bowdrill-seminar/blob/main/README.md
 ## Inhalte
 - Material und Werkzeugkunde
 - Zundernest
@@ -43,11 +44,15 @@ Wenn du die
 
 ## Über deinen Trainer
 
-Bild Florian Modell Debris Hut
+![Florian baut das Modell einer Debris Hut]()
+Foto © Naturzeitclub
 
 Florian ist ausbildeteter Wildnispädagoge und Systemischer Coach.
 
 Schon sehr früh war Florian vom Feuer und hatte ein Faible für Messern faziniert. 
 Als Kind war er als Pfadfinder mit der Kothe im Bergsischen Land unterwegs.
+
+Heute gibt Florian Bushcraft und Survivalkurse, unter anderem für den [Naturzeitclub](
+https://naturzeit.club/) wo er auch die Trainings für die Naturzeitclub Coach gegeben hat.
 
  
