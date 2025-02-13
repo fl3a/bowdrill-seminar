@@ -17,6 +17,8 @@ https://github.com/fl3a/bowdrill-seminar/blob/main/README.md
 - Exkurs: Handdrill
 
 ![Übertragung der Glut in das Glutnest](/images/bowdrill-glut-uebertragung-glutnest.png)
+Foto © Florian Latzel
+
 
 **Muss du mitbringen musst**
 
@@ -44,15 +46,16 @@ Wenn du möchtest, dann kannst du deine eigene [Säge](https://www.globetrotter.
 oder optinal ein Beil mitbringen.
 Wenn du die 
 
-## Über deinen Trainer
+## Dein Trainer
 
 ![Florian baut das Modell einer Debris Hut](/images/florian-latzel-modell-debris-hut.jpg)
 Foto © Naturzeitclub
 
 Florian ist ausbildeteter Wildnispädagoge und Systemischer Coach.
 
-Schon sehr früh war Florian vom Feuer und hatte ein Faible für Messern faziniert. 
-Als Kind war er als Pfadfinder mit der Kothe im Bergsischen Land unterwegs.
+Schon sehr früh hatte Florian ein Faible für Messer, war vom Feuer faziniert 
+und zündelte sehr zum Leidwesen seiner Eltern. 
+Etwas später konnte es das als Pfadfinder, mit denen er mit der Kothe (Feuerzelt) unterwegs war, ausleben.
 
 Heute gibt Florian Bushcraft und Survivalkurse, unter anderem für den [Naturzeitclub](
 https://naturzeit.club/) wo er auch die Trainings für die Naturzeitclub Coach gegeben hat.
