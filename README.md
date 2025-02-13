@@ -71,13 +71,13 @@ https://naturzeit.club/) wo er auch die Trainings für die Naturzeitclub Coach g
 
 **Ggf. in die Terminbuchung**
 
-85 Euro brutto, p.P.
+85 Euro brutto, p.P. zzgl. Rausgegangen
 
 Termine 
-je 10-14 Uhr, Ort Decksteiner Weiher, Köln
+je 10-14 Uhr
 - 13.04 ( Decksteiner Weiher, Köln)
 - 27.04 (Freiluft, Blackfoot Beach?)
-- 11.05  (Decksteiner Weiher, Köln)
+- 18.05  (Decksteiner Weiher, Köln)
 
 
  
