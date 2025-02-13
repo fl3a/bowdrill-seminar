@@ -16,18 +16,21 @@ und versuchen damit feuer zu machen.
 - Bau eines Bowdrill-Sets
 - Exkurs: Handdrill
 
+Dauer ca. 4 Stunden  
+
 ![Übertragung der erzeugten Glut in das Glutnest](
 /images/bowdrill-glut-uebertragung-glutnest.png "Übertragung der erzeugten Glut in das Glutnest")
 Foto © Florian Latzel
 
 **Muss du mitbringen musst**
 
+- Die Volljährigkeit oder eine erwachsene Begleitperson
 - Ein Messer mit dem du mühelos längere Zeit schnitzen kannst. 
 Optimal eignen sich festehende Messer mit einem sogenannte [Bushcraft Messer](
 https://www.globetrotter.de/feststehende-messer/?filter.Keywords=Bushcraft-Messer) 
-mit einem Scandi Anschliff. Für Einsteiger empfehlen wir [Mora Messer](
+mit einem Scandi Anschliff. Für Einsteiger empfehlen wir [die Messer von Mora](
 https://www.globetrotter.de/feststehende-messer/morakniv/).
-- Als Sitzunterlage ein [Sitzkissen](https://www.globetrotter.de/outdoor-ausruestung/isomatten/sitzkissen/)
+- Eine Sitzunterlage, wie ein [Sitzkissen](https://www.globetrotter.de/outdoor-ausruestung/isomatten/sitzkissen/)
 oder eine einfache [Isomatte aus Schaumstoff](
 https://www.globetrotter.de/outdoor-ausruestung/isomatten/schaumstoffmatten/).
 - Je nach Witterung: Wetter- (z.B. Poncho) und Sonnenschtz 
@@ -37,7 +40,6 @@ https://www.globetrotter.de/outdoor-ausruestung/isomatten/schaumstoffmatten/).
 Material für Bohrbrett und Spindel werden sowie Schnur für den Bogen werden gestellt. 
 Sägen können in begrenztem Umfang geliehen werden.
 Holz für den Bogen und Drucktüc 
-
 
 **Was du mitbringen kannst**
 
@@ -64,5 +66,18 @@ Etwas später konnte es das als Pfadfinder, mit denen er mit der Kothe (Feuerzel
 
 Heute gibt Florian Bushcraft und Survivalkurse. Unter anderem für den [Naturzeitclub](
 https://naturzeit.club/) wo er auch die Trainings für die Naturzeitclub Coach gegeben hat.
+
+**Termine**
+
+**Ggf. in die Terminbuchung**
+
+85 Euro brutto, p.P.
+
+Termine 
+je 10-14 Uhr, Ort Decksteiner Weiher, Köln
+- 13.04 ( Decksteiner Weiher, Köln)
+- 27.04 (Freiluft, Blackfoot Beach?)
+- 11.05  (Decksteiner Weiher, Köln)
+
 
  
