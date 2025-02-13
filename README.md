@@ -45,6 +45,8 @@ Wenn du die
 Bild Florian Modell Debris Hut
 
 Florian ist ausbildeteter Wildnispädagoge und Systemischer Coach.
-Schon als Kind war Florian vom Feuer und von Messern faziniert. als Pfadfinder unterwegs.
+
+Schon sehr früh war Florian vom Feuer und hatte ein Faible für Messern faziniert. 
+Als Kind war er als Pfadfinder mit der Kothe im Bergsischen Land unterwegs.
 
  
