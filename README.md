@@ -4,21 +4,20 @@
 Foto © Naturzeitclub
 
 In diesem Seminar lernst du in Theorie und Praxis, 
-wie man auf archaische Arten entfacht. 
+wie man auf archaische Arten Feuer entfacht. 
 Dazu gehören das Funkenschlagen und das erzeugen von Glut durch Reibung.
 Und du wirst **dein eigenes Bowdrill-Set** (welches du auch mit Hause nehmen kannst) bauen 
 und versuchen damit feuer zu machen.
-https://github.com/fl3a/bowdrill-seminar/blob/main/README.md
-## Inhalte
+
+**Inhalte**
 - Material und Werkzeugkunde
 - Zundernest
 - Funkenschlagen mit Feuerstein
 - Bau eines Bowdrill-Sets
 - Exkurs: Handdrill
 
-![Übertragung der Glut in das Glutnest](/images/bowdrill-glut-uebertragung-glutnest.png)
+![Übertragung der erzeugten Glut in das Glutnest](/images/bowdrill-glut-uebertragung-glutnest.png)
 Foto © Florian Latzel
-
 
 **Muss du mitbringen musst**
 
@@ -41,12 +40,17 @@ Holz für den Bogen und Drucktüc
 
 **Was du mitbringen kannst**
 
-Wenn du möchtest, dann kannst du deine eigene [Säge](https://www.globetrotter.de/macheten-und-saegen/)
+Wenn du möchtest, dann kannst du sehr gerne deine eigene [Säge](https://www.globetrotter.de/macheten-und-saegen/)
 , [Paracord](https://www.globetrotter.de/coghlans-reepschnur-paracord-15-m-schwarz-1242741/?sku=5637880850)
 oder optinal ein Beil mitbringen.
-Wenn du die 
 
-## Dein Trainer
+Wenn du dir auch das Material für das Bowdrill -Set selbst suchen möchtest,
+als Holz für Bohrbrett und Spindel (Durchmesser ca. 20 bis 30 mm) haben gute Erfahrungen mit weicherem Laubholz, 
+speziell Pappel und Weide gemacht.
+
+Für das Druckstück (Handbreit, Durchmesser ca. 50 mm) eignet sich härteres Holz wie Buche oder Hasel.
+
+**Dein Trainer**
 
 ![Florian baut das Modell einer Debris Hut](/images/florian-latzel-modell-debris-hut.jpg)
 Foto © Naturzeitclub
