@@ -9,7 +9,8 @@ Dazu gehören das Funkenschlagen und das erzeugen von Glut durch Reibung.
 Und du wirst **dein eigenes Bowdrill-Set** (welches du auch mit Hause nehmen kannst) bauen 
 und versuchen damit feuer zu machen.
 
-**Inhalte**
+## Inhalte des Seminars im Überblick
+
 - Material und Werkzeugkunde
 - Zundernest
 - Funkenschlagen mit Feuerstein
@@ -22,7 +23,7 @@ Dauer ca. 4 Stunden
 /images/bowdrill-glut-uebertragung-glutnest.png "Übertragung der erzeugten Glut in das Glutnest")
 Foto © Florian Latzel
 
-**Muss du mitbringen musst**
+## Was du mitbringen musst
 
 - Die Volljährigkeit oder eine erwachsene Begleitperson
 - Ein Messer mit dem du mühelos längere Zeit schnitzen kannst. 
@@ -37,7 +38,7 @@ Material für Bohrbrett und Spindel werden sowie Schnur für den Bogen werden ge
 Sägen können in begrenztem Umfang geliehen werden.
 Holz für den Bogen und Drucktüc 
 
-**Was du mitbringen kannst**
+## Was du mitbringen kannst
 
 Wenn du möchtest, dann kannst du sehr gerne deine eigene Säge, Paracord
 oder optinal ein Beil mitbringen.
@@ -48,7 +49,7 @@ speziell Pappel und Weide gemacht.
 
 Für das Druckstück (Handbreit, Durchmesser ca. 50 mm) eignet sich härteres Holz wie Buche oder Hasel.
 
-**Dein Trainer**
+## Dein Trainerteam
 
 ![Florian baut das Modell einer Debris Hut](/images/florian-latzel-modell-debris-hut.jpg)
 Foto © Naturzeitclub
@@ -59,13 +60,14 @@ Schon sehr früh hatte Florian ein Faible für Messer, war vom Feuer faziniert
 und zündelte für sein Leben gern (sehr zum Leidwesen seiner Eltern). 
 Etwas später konnte es das als Pfadfinder, mit denen er mit der Kothe (Feuerzelt) unterwegs war, ausleben.
 
-Heute gibt Florian Bushcraft und Survivalkurse. Unter anderem für den [Naturzeitclub](
+Heute gibt Florian [Bushcraft und Survivalkurse](https://florian.latzel.io/wildnistraining.html). 
+Unter anderem für den [Naturzeitclub](
 https://naturzeit.club/) wo er auch die Trainings für die Naturzeitclub Coaches gegeben hat.
 
-**Termine**
+## Anmeldung und Termine
 
-Termine 
-je 10-14 Uhr
+Termine, je 10-14 Uhr
+
 - 13.04 ( Decksteiner Weiher, Köln)
 - 27.04 ( Decksteiner Weiher, Köln)
-- 18.05  (Decksteiner Weiher, Köln) 
+- 18.05  (Decksteiner Weiher, Köln)
