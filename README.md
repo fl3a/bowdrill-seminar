@@ -54,7 +54,7 @@ Für das Druckstück (Handbreit, Durchmesser ca. 50 mm) eignet sich härteres Ho
 ![Florian baut das Modell einer Debris Hut](/images/florian-latzel-modell-debris-hut.jpg)
 Foto © Naturzeitclub
 
-Florian ist ausbildeteter Wildnispädagoge und Systemischer Coach.
+Florian ist ausbildeteter [Wildnispädagoge](https://florian.latzel.io/thema/wildnispadagogik/) und Systemischer Coach.
 
 Schon sehr früh hatte Florian ein Faible für Messer, war vom Feuer faziniert 
 und zündelte für sein Leben gern (sehr zum Leidwesen seiner Eltern). 
@@ -62,7 +62,8 @@ Etwas später konnte es das als Pfadfinder, mit denen er mit der Kothe (Feuerzel
 
 Heute gibt Florian [Bushcraft und Survivalkurse](https://florian.latzel.io/wildnistraining.html). 
 Unter anderem für den [Naturzeitclub](
-https://naturzeit.club/) wo er auch die Trainings für die Naturzeitclub Coaches gegeben hat.
+https://naturzeit.club/) wo er auch die [Bushcraft Trainings für die Naturzeitclub Coaches](
+https://florian.latzel.io/bushcraft-training-naturzeitclub-coaches-bergischen-land.html) gegeben hat.
 
 ## Anmeldung und Termine
 
@@ -71,3 +72,7 @@ Termine, je 10-14 Uhr
 - 13.04 ( Decksteiner Weiher, Köln)
 - 27.04 ( Decksteiner Weiher, Köln)
 - 18.05  (Decksteiner Weiher, Köln)
+
+Alle aktuellen Termine, Buchungsmöglichkeiten und weitere Details findest du auf der Seite  
+[**Bowdrill Seminare 2025 in Köln – Feuermachen ohne Feuerzeug lernen**](
+https://florian.latzel.io/bowdrill-seminare-koeln-2025-feuermachen.html).
