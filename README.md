@@ -4,10 +4,9 @@
 Foto © Naturzeitclub
 
 In diesem Seminar lernst du in Theorie und Praxis, 
-wie man auf archaische Arten Feuer entfacht. 
-Dazu gehören das Funkenschlagen und das erzeugen von Glut durch Reibung.
-Und du wirst **dein eigenes Bowdrill-Set** (welches du auch mit Hause nehmen kannst) bauen 
-und versuchen damit feuer zu machen.
+wie man auf archaische Weise Feuer entfacht: Funkenschlagen und Gluterzeugung durch Reibung. 
+Du baust **dein eigenes Bowdrill-Set**, 
+das du anschließend mit nach Hause nehmen kannst und übst damit, selbst Feuer zu machen.
 
 ## Inhalte des Seminars im Überblick
 
@@ -32,11 +31,10 @@ mit einem Scandi Anschliff. Für Einsteiger empfehlen wir die Messer von Mora.
 - Eine Sitzunterlage, wie ein Sitzkissen oder eine einfache Isomatte aus Schaumstoff.
 - Je nach Witterung: Wetter- (z.B. Poncho) und Sonnenschtz 
 - Verpflegung: Essen und trinken
-- Neugier :D
+- Neugier und Geduld 😊  
 
-Material für Bohrbrett und Spindel werden sowie Schnur für den Bogen werden gestellt. 
-Sägen können in begrenztem Umfang geliehen werden.
-Holz für den Bogen und Drucktüc 
+*Material für Bohrbrett und Spindel sowie Schnur für den Bogen wird gestellt.  
+Sägen sind in begrenzter Zahl vorhanden.*
 
 ## Was du mitbringen kannst
 
@@ -54,16 +52,14 @@ Für das Druckstück (Handbreit, Durchmesser ca. 50 mm) eignet sich härteres Ho
 ![Florian baut das Modell einer Debris Hut](/images/florian-latzel-modell-debris-hut.jpg)
 Foto © Naturzeitclub
 
-Florian ist ausbildeteter [Wildnispädagoge](https://florian.latzel.io/thema/wildnispadagogik/) und Systemischer Coach.
-
-Schon sehr früh hatte Florian ein Faible für Messer, war vom Feuer faziniert 
-und zündelte für sein Leben gern (sehr zum Leidwesen seiner Eltern). 
-Etwas später konnte es das als Pfadfinder, mit denen er mit der Kothe (Feuerzelt) unterwegs war, ausleben.
-
-Heute gibt Florian [Bushcraft und Survivalkurse](https://florian.latzel.io/wildnistraining.html). 
-Unter anderem für den [Naturzeitclub](
-https://naturzeit.club/) wo er auch die [Bushcraft Trainings für die Naturzeitclub Coaches](
-https://florian.latzel.io/bushcraft-training-naturzeitclub-coaches-bergischen-land.html) gegeben hat.
+Florian ist ausgebildeter  
+[Wildnispädagoge](https://florian.latzel.io/thema/wildnispadagogik/) und  
+systemischer Coach. Schon als Kind war er fasziniert vom Feuer – später als  
+Pfadfinder in der Kothe (Feuerzelt) dann auch praktisch unterwegs. Heute  
+leitet er [Bushcraft- und Survivalkurse](https://florian.latzel.io/wildnistraining.html),  
+u. a. für den Naturzeitclub. Dort gab er auch die  
+[Trainings für Naturzeitclub-Coaches im Bergischen Land](
+https://florian.latzel.io/bushcraft-training-naturzeitclub-coaches-bergischen-land.html).
 
 ## Anmeldung und Termine
 
