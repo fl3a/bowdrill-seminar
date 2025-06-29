@@ -52,13 +52,12 @@ Für das Druckstück (Handbreit, Durchmesser ca. 50 mm) eignet sich härteres Ho
 ![Florian baut das Modell einer Debris Hut](/images/florian-latzel-modell-debris-hut.jpg)
 Foto © Naturzeitclub
 
-Florian ist ausgebildeter  
-[Wildnispädagoge](https://florian.latzel.io/thema/wildnispadagogik/) und  
-systemischer Coach. Schon als Kind war er fasziniert vom Feuer – später als  
-Pfadfinder in der Kothe (Feuerzelt) dann auch praktisch unterwegs. Heute  
-leitet er [Bushcraft- und Survivalkurse](https://florian.latzel.io/wildnistraining.html),  
-u. a. für den Naturzeitclub. Dort gab er auch die  
-[Trainings für Naturzeitclub-Coaches im Bergischen Land](
+Florian ist ausgebildeter [Wildnispädagoge](https://florian.latzel.io/thema/wildnispadagogik/) und systemischer Coach. 
+
+Schon als Kind war er fasziniert vom Feuer – später als  Pfadfinder in der Kothe (Feuerzelt) dann auch praktisch unterwegs. 
+Heute leitet er [Bushcraft- und Survivalkurse](https://florian.latzel.io/wildnistraining.html),
+u. a. für den Naturzeitclub. 
+Dort gab er auch die [Trainings für Naturzeitclub-Coaches im Bergischen Land](
 https://florian.latzel.io/bushcraft-training-naturzeitclub-coaches-bergischen-land.html).
 
 ## Anmeldung und Termine
