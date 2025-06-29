@@ -56,7 +56,7 @@ Florian ist ausgebildeter [Wildnispädagoge](https://florian.latzel.io/thema/wil
 
 Schon als Kind war er fasziniert vom Feuer – später als  Pfadfinder in der Kothe (Feuerzelt) dann auch praktisch unterwegs. 
 Heute leitet er [Bushcraft- und Survivalkurse](https://florian.latzel.io/wildnistraining.html),
-u. a. für den Naturzeitclub. 
+u. a. für den [Naturzeitclub](https://naturzeit.club). 
 Dort gab er auch die [Trainings für Naturzeitclub-Coaches im Bergischen Land](
 https://florian.latzel.io/bushcraft-training-naturzeitclub-coaches-bergischen-land.html).
 
