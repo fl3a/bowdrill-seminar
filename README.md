@@ -53,7 +53,7 @@ Für das Druckstück (Handbreit, Durchmesser ca. 50 mm) eignet sich härteres Ho
 Foto © Naturzeitclub
 
 Florian ist ausgebildeter [Wildnispädagoge](https://florian.latzel.io/thema/wildnispadagogik/) 
-und Systemischer Coach. 
+und [Systemischer Coach](https://florian.latzel.io/coaching.html). 
 
 Schon als Kind war er fasziniert vom Feuer – später als  Pfadfinder in der Kothe (Feuerzelt) dann auch praktisch unterwegs. 
 Heute leitet er [Bushcraft- und Survivalkurse](https://florian.latzel.io/wildnistraining.html),
