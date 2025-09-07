@@ -3,7 +3,8 @@
 ![Justin bort feuer mit dem Drillbogen"](/images/justin-bowdrill-action.jpg)
 Foto © Naturzeitclub
 
-In diesem Seminar lernst du in Theorie und Praxis, 
+In diesem [Bowdrill Seminar / Workshop in Köln](https://florian.latzel.io/seminare/bowdrill-feuermachen.html) 
+lernst du in Theorie und Praxis, 
 wie man auf archaische Weise Feuer entfacht: Funkenschlagen und Gluterzeugung durch Reibung. 
 Du baust **dein eigenes Bowdrill-Set**, 
 das du anschließend mit nach Hause nehmen kannst und übst damit, selbst Feuer zu machen.
@@ -14,7 +15,6 @@ das du anschließend mit nach Hause nehmen kannst und übst damit, selbst Feuer 
 - Zundernest
 - Funkenschlagen mit Feuerstein
 - Bau eines Bowdrill-Sets
-- Exkurs: Handdrill
 
 Dauer ca. 4 Stunden  
 
@@ -62,12 +62,4 @@ https://florian.latzel.io/bushcraft-training-naturzeitclub-coaches-bergischen-la
 
 ## Anmeldung und Termine
 
-Termine, je 10-14 Uhr
-
-- 13.04 ( Decksteiner Weiher, Köln)
-- 27.04 ( Decksteiner Weiher, Köln)
-- 18.05  (Decksteiner Weiher, Köln)
-
-Alle aktuellen Termine, Buchungsmöglichkeiten und weitere Details findest du auf der Seite  
-[**Bowdrill Seminare 2025 in Köln – Feuermachen ohne Feuerzeug lernen**](
-https://florian.latzel.io/bowdrill-seminare-koeln-2025-feuermachen.html).
+👉 [Alle Termine & Anmeldung: Bowdrill Seminar / Workshop in Köln](https://florian.latzel.io/seminare/bowdrill-feuermachen.html)
