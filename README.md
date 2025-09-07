@@ -1,4 +1,4 @@
-# Feuermachen mit dem Bowdrill (Feuerbohrer)
+# Bowdrill Seminar / Workshop – Feuermachen mit dem Drillbogen
 
 ![Justin bort feuer mit dem Drillbogen"](/images/justin-bowdrill-action.jpg)
 Foto © Naturzeitclub
@@ -52,7 +52,8 @@ Für das Druckstück (Handbreit, Durchmesser ca. 50 mm) eignet sich härteres Ho
 ![Florian baut das Modell einer Debris Hut](/images/florian-latzel-modell-debris-hut.jpg)
 Foto © Naturzeitclub
 
-Florian ist ausgebildeter [Wildnispädagoge](https://florian.latzel.io/thema/wildnispadagogik/) und systemischer Coach. 
+Florian ist ausgebildeter [Wildnispädagoge](https://florian.latzel.io/thema/wildnispadagogik/) 
+und Systemischer Coach. 
 
 Schon als Kind war er fasziniert vom Feuer – später als  Pfadfinder in der Kothe (Feuerzelt) dann auch praktisch unterwegs. 
 Heute leitet er [Bushcraft- und Survivalkurse](https://florian.latzel.io/wildnistraining.html),
